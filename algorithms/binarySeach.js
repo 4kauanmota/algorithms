@@ -22,4 +22,5 @@ console.log(`the position of the number ${number} is ${result}`);
 |------------------------------------------|
 | * "the position of the number 36 is 2"   |
 |__________________________________________|
+
 */
