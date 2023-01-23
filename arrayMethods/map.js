@@ -41,7 +41,7 @@ console.log(copyArray2);
 
 */
 
-const objectsArray = [{nome: 'Baam', human: false}, {nome: 'Khun', human: false}]
+const objectsArray = [{nome: 'Baam', human: false}, {nome: 'Khun', human: false}];
 objectsArray.map(x => x.human = true);
 console.log(objectsArray);
 /*

@@ -1,5 +1,5 @@
 # Javascript exemples
-You will found **(13)** exemples of javascript ***algotithms, arrayMethods*** in this repository.
+You will found **(13)** exemples of javascript ***algorithms, arrayMethods*** in this repository.
 > In all the code here, few of then have a brief explanation, so, the focus is just on showing the exemples to help you fix the content
 
 enjoy :)
@@ -8,13 +8,13 @@ enjoy :)
 
 ## Content
 
-### *Algorithms*
-+ binarySearch **(1)**
-+ selectionSort **(1)**
+### *[Algorithms](https://github.com/4kauanmota/javascript/tree/master/algorithms)*
++ [binarySearch](https://github.com/4kauanmota/javascript/blob/master/algorithms/binarySeach.js) **(1)**
++ [selectionSort](https://github.com/4kauanmota/javascript/blob/master/algorithms/selectionSort.js) **(1)**
 
 ### *Array Methods*
 + slice **(3)**
 + splice **(4)**
 + map **(4)**
 
-[![N|Solid](https://www.infinitycode.one/assets/icon/infinitycode/logo_192x192.png)](https://www.infinitycode.one)
+[![N|Solid](https://www.infinitycode.one/assets/icon/infinitycode/logo_192x192.png)](https://www.infinitycode.one/links/)

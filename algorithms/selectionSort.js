@@ -1,7 +1,7 @@
 function findSmallestIndex(array){
     let smallestIndex = 0;
 
-    for(let i = 1; i < array.length; i++) if(array[i] < array[smallestIndex]) smallestIndex = i
+    for(let i = 1; i < array.length; i++) if(array[i] < array[smallestIndex]) smallestIndex = i;
 
     return smallestIndex;
 }
