@@ -16,5 +16,3 @@ enjoy :)
 + slice **(3)**
 + splice **(4)**
 + map **(4)**
-
-[![N|Solid](https://www.infinitycode.one/assets/icon/infinitycode/logo_192x192.png)](https://www.infinitycode.one/links/)
