@@ -12,7 +12,7 @@ enjoy :)
 + [binarySearch](https://github.com/4kauanmota/javascript/blob/master/algorithms/binarySeach.js) **(1)**
 + [selectionSort](https://github.com/4kauanmota/javascript/blob/master/algorithms/selectionSort.js) **(1)**
 
-### *Array Methods*
-+ slice **(3)**
-+ splice **(4)**
-+ map **(4)**
+### *[Array Methods](https://github.com/4kauanmota/javascript/tree/master/arrayMethods)*
++ [slice](https://github.com/4kauanmota/javascript/blob/master/arrayMethods/slice.js) **(3)**
++ [splice](https://github.com/4kauanmota/javascript/blob/master/arrayMethods/splice.js) **(4)**
++ [map](https://github.com/4kauanmota/javascript/blob/master/arrayMethods/map.js) **(4)**
