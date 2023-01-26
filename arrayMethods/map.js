@@ -1,10 +1,10 @@
-//.map (<element, index, array>, function)
+// .map(callback)
 
 
 const array = [1, 2, 3, 4];
 
 
-array.map(x => console.log(x + 1));
+array.map(element => console.log(element + 1));
 /*
  ____________
 |  RESULT 1  |
@@ -18,7 +18,17 @@ array.map(x => console.log(x + 1));
 */
 
 
-const copyArray = array.map(x => x);
+console.log(array)
+/*
+ _________________
+|  RESULT 1.5     |
+|-----------------|
+| * [1, 2, 3, 4]  |
+|_________________|
+*/
+
+
+const copyArray = array.map(element => element);
 console.log(copyArray);
 /*
  __________________
@@ -30,7 +40,7 @@ console.log(copyArray);
 */
 
 
-const copyArray2 = array.map(x => x + 1);
+const copyArray2 = array.map(element => element + 1);
 console.log(copyArray2);
 /*
  __________________
