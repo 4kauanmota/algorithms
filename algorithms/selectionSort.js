@@ -11,7 +11,7 @@ function selectionSort(array){
 
     for(let i = array.length; i > 0; i--) ordenedArray.push(array.splice(findSmallestIndex(array), 1)[0]);
 
-    return(ordenedArray);
+    return ordenedArray;
 }
 
 console.log(selectionSort([5, 3, 6, 2, 10, 1]));
