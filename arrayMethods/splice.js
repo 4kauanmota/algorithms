@@ -1,7 +1,7 @@
 // .splice(start, quantity to splice, elements to add)
 
 
-const array = [1, 2, 3, 4];
+let array = [1, 2, 3, 4];
 
 
 array.splice(1, 1, 8);

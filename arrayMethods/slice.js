@@ -1,7 +1,7 @@
 // .slice(start, end)
 
 
-const array = [1, 2, 3, 4];
+let array = [1, 2, 3, 4];
 
 
 array.slice(1, 3);
