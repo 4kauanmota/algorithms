@@ -1,5 +1,5 @@
-# Javascript exemples
-You will found **(19)** exemples of javascript ***algorithms, arrayMethods*** in this repository.
+# Algorithms exemples
+You will found **(19)** exemples of ***algorithms, arrayMethods*** in this repository.
 > In all the code here, few of then have a brief explanation, so, the focus is just on showing the exemples to help you fix the content
 
 enjoy :)
