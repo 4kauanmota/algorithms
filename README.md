@@ -7,7 +7,7 @@ enjoy :)
 ---
 
 # Content
-## Javascript
+## [Javascript](https://github.com/4kauanmota/javascript/tree/master/javascript)
 + #### *[Algorithms](https://github.com/4kauanmota/javascript/tree/master/javascript/algorithms)* **(2)**
   + [binarySearch](https://github.com/4kauanmota/javascript/blob/master/javascript/algorithms/binarySeach.js) **(1)**
   + [selectionSort](https://github.com/4kauanmota/javascript/blob/master/javascript/algorithms/selectionSort.js) **(1)**
